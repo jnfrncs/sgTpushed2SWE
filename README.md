@@ -39,3 +39,4 @@ Rate limiting can be enforced to limit load on SMC.
     
   - to start the program from the CLI : python sgTpushed2SWE.py
   
+  Overall process : <img width="1674" alt="Screenshot 2020-03-26 at 18 03 40" src="https://user-images.githubusercontent.com/22447118/77675334-1ca70080-6f8d-11ea-817c-d06bb813d496.png">
