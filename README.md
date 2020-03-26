@@ -40,3 +40,8 @@ Rate limiting can be enforced to limit load on SMC.
   - to start the program from the CLI : python sgTpushed2SWE.py
   
   Overall process : <img width="1674" alt="Screenshot 2020-03-26 at 18 03 40" src="https://user-images.githubusercontent.com/22447118/77675334-1ca70080-6f8d-11ea-817c-d06bb813d496.png">
+  
+  Benefit : groups based on dynamic IPs learnt from pxgrid are available in reports, and can be part of the existing detection policies.
+  
+  <img width="1637" alt="Screenshot 2020-03-26 at 16 29 45" src="https://user-images.githubusercontent.com/22447118/77675878-d43c1280-6f8d-11ea-92a7-733ae570a39b.png">
+<img width="1627" alt="Screenshot 2020-03-26 at 16 33 14" src="https://user-images.githubusercontent.com/22447118/77675882-d7370300-6f8d-11ea-9d28-12cdb1cec6b2.png">
